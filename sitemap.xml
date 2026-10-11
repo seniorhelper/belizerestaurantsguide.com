@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://belizerestaurantsguide.com/</loc><lastmod>2026-10-09</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://belizerestaurantsguide.com/sitemap.html</loc><lastmod>2026-06-25</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://belizerestaurantsguide.com/</loc><lastmod>2026-10-11</lastmod><priority>1.0</priority></url>
+<url><loc>https://belizerestaurantsguide.com/creole-food/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://belizerestaurantsguide.com/garifuna-food/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://belizerestaurantsguide.com/mestizo-food/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://belizerestaurantsguide.com/maya-food/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://belizerestaurantsguide.com/seafood-seasons/</loc><lastmod>2026-10-11</lastmod><priority>0.9</priority></url>
+<url><loc>https://belizerestaurantsguide.com/street-food/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://belizerestaurantsguide.com/drinks/</loc><lastmod>2026-10-11</lastmod><priority>0.6</priority></url>
+<url><loc>https://belizerestaurantsguide.com/festivals/</loc><lastmod>2026-10-11</lastmod><priority>0.7</priority></url>
+<url><loc>https://belizerestaurantsguide.com/eating-tips/</loc><lastmod>2026-10-11</lastmod><priority>0.6</priority></url>
+<url><loc>https://belizerestaurantsguide.com/branch-out/</loc><lastmod>2026-10-11</lastmod><priority>0.5</priority></url>
+<url><loc>https://belizerestaurantsguide.com/dish-decoder/</loc><lastmod>2026-10-11</lastmod><priority>0.9</priority></url>
+<url><loc>https://belizerestaurantsguide.com/about/</loc><lastmod>2026-10-11</lastmod><priority>0.4</priority></url>
+<url><loc>https://belizerestaurantsguide.com/contact/</loc><lastmod>2026-10-11</lastmod><priority>0.4</priority></url>
+<url><loc>https://belizerestaurantsguide.com/privacy/</loc><lastmod>2026-10-11</lastmod><priority>0.3</priority></url>
+<url><loc>https://belizerestaurantsguide.com/terms/</loc><lastmod>2026-10-11</lastmod><priority>0.3</priority></url>
+<url><loc>https://belizerestaurantsguide.com/editorial-policy/</loc><lastmod>2026-10-11</lastmod><priority>0.4</priority></url>
 </urlset>

@@ -1,0 +1,567 @@
+{
+ "site": "https://belizerestaurantsguide.com",
+ "generated": "2026-10-11",
+ "notes": "veg and gf flags mean typically/usually; recipes vary by cook. Seasons per Belize Fisheries Department notices.",
+ "dishes": [
+  {
+   "name": "Rice and beans",
+   "culture": "creole",
+   "cultureLabel": "Creole",
+   "short": "Red kidney beans and rice cooked together in coconut milk, the base of the national plate.",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "lunch",
+    "dinner"
+   ],
+   "veg": true,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/creole-food/"
+  },
+  {
+   "name": "Stew chicken",
+   "culture": "creole",
+   "cultureLabel": "Creole",
+   "short": "Chicken browned and simmered in a dark red sauce colored with recado.",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "lunch",
+    "dinner"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/creole-food/"
+  },
+  {
+   "name": "Fry jacks",
+   "culture": "creole",
+   "cultureLabel": "Creole",
+   "short": "Puffed pillows of fried dough, filled or served with beans, eggs and cheese.",
+   "roles": [
+    "main",
+    "starter"
+   ],
+   "times": [
+    "breakfast"
+   ],
+   "veg": true,
+   "gf": false,
+   "adventurous": false,
+   "season": "",
+   "href": "/creole-food/"
+  },
+  {
+   "name": "Johnny cakes",
+   "culture": "creole",
+   "cultureLabel": "Creole",
+   "short": "Small, dense baked rounds made with coconut milk, split and filled at breakfast.",
+   "roles": [
+    "starter",
+    "main"
+   ],
+   "times": [
+    "breakfast"
+   ],
+   "veg": true,
+   "gf": false,
+   "adventurous": false,
+   "season": "",
+   "href": "/creole-food/"
+  },
+  {
+   "name": "Boil up",
+   "culture": "creole",
+   "cultureLabel": "Creole",
+   "short": "Fish or salted pig tail with cassava, plantain, sweet potato, eggs and dumplings under a tomato sauce.",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "lunch"
+   ],
+   "veg": false,
+   "gf": false,
+   "adventurous": true,
+   "season": "",
+   "href": "/creole-food/"
+  },
+  {
+   "name": "Cow foot soup",
+   "culture": "creole",
+   "cultureLabel": "Creole",
+   "short": "A rich, gelatinous soup of cow foot, vegetables and dumplings, often a weekend special.",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "lunch"
+   ],
+   "veg": false,
+   "gf": false,
+   "adventurous": true,
+   "season": "",
+   "href": "/creole-food/"
+  },
+  {
+   "name": "Meat pies",
+   "culture": "creole",
+   "cultureLabel": "Creole",
+   "short": "Small flaky pies of seasoned minced meat sold at shops and carts.",
+   "roles": [
+    "starter"
+   ],
+   "times": [
+    "breakfast",
+    "snack"
+   ],
+   "veg": false,
+   "gf": false,
+   "adventurous": false,
+   "season": "",
+   "href": "/creole-food/"
+  },
+  {
+   "name": "Hudut",
+   "culture": "garifuna",
+   "cultureLabel": "Garifuna",
+   "short": "Fish in coconut broth (sere) with mashed plantain (fu-fu).",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "lunch",
+    "dinner"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/garifuna-food/"
+  },
+  {
+   "name": "Ereba (cassava bread)",
+   "culture": "garifuna",
+   "cultureLabel": "Garifuna",
+   "short": "Thin, crisp bread of grated, dried cassava.",
+   "roles": [
+    "starter"
+   ],
+   "times": [
+    "lunch",
+    "dinner",
+    "snack"
+   ],
+   "veg": true,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/garifuna-food/"
+  },
+  {
+   "name": "Darasa",
+   "culture": "garifuna",
+   "cultureLabel": "Garifuna",
+   "short": "Green banana grated and wrapped in leaves, a Garifuna tamale.",
+   "roles": [
+    "starter",
+    "main"
+   ],
+   "times": [
+    "lunch"
+   ],
+   "veg": true,
+   "gf": true,
+   "adventurous": true,
+   "season": "",
+   "href": "/garifuna-food/"
+  },
+  {
+   "name": "Bundiga",
+   "culture": "garifuna",
+   "cultureLabel": "Garifuna",
+   "short": "Green banana and coconut, in the same family as hudut.",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "lunch"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": true,
+   "season": "",
+   "href": "/garifuna-food/"
+  },
+  {
+   "name": "Salbutes",
+   "culture": "mestizo",
+   "cultureLabel": "Mestizo",
+   "short": "Puffed fried corn tortillas topped with shredded chicken, cabbage and tomato.",
+   "roles": [
+    "starter"
+   ],
+   "times": [
+    "snack",
+    "lunch",
+    "dinner"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/mestizo-food/"
+  },
+  {
+   "name": "Garnaches",
+   "culture": "mestizo",
+   "cultureLabel": "Mestizo",
+   "short": "Crisp corn tortillas with refried beans, cheese and pickled onion.",
+   "roles": [
+    "starter"
+   ],
+   "times": [
+    "snack",
+    "lunch",
+    "dinner"
+   ],
+   "veg": true,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/mestizo-food/"
+  },
+  {
+   "name": "Panades",
+   "culture": "mestizo",
+   "cultureLabel": "Mestizo",
+   "short": "Fried corn turnovers filled with fish or beans, with onion relish.",
+   "roles": [
+    "starter"
+   ],
+   "times": [
+    "snack",
+    "breakfast"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/mestizo-food/"
+  },
+  {
+   "name": "Escabeche",
+   "culture": "mestizo",
+   "cultureLabel": "Mestizo",
+   "short": "Chicken in a sharp onion-and-vinegar broth with corn tortillas.",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "lunch",
+    "dinner"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/mestizo-food/"
+  },
+  {
+   "name": "Relleno (black dinner)",
+   "culture": "mestizo",
+   "cultureLabel": "Mestizo",
+   "short": "Dark soup made with black recado, often with chicken and stuffed pork.",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "lunch",
+    "dinner"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": true,
+   "season": "",
+   "href": "/mestizo-food/"
+  },
+  {
+   "name": "Tamales and bollos",
+   "culture": "maya",
+   "cultureLabel": "Maya",
+   "short": "Corn dough with seasoned meat, wrapped in banana leaf and steamed.",
+   "roles": [
+    "main",
+    "starter"
+   ],
+   "times": [
+    "lunch",
+    "breakfast"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/maya-food/"
+  },
+  {
+   "name": "Caldo",
+   "culture": "maya",
+   "cultureLabel": "Maya",
+   "short": "A simple, restorative Maya soup, usually chicken with vegetables and corn tortillas.",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "lunch"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/maya-food/"
+  },
+  {
+   "name": "Corn tortillas",
+   "culture": "maya",
+   "cultureLabel": "Maya",
+   "short": "Hand-pressed and naturally gluten-free, on almost every Belizean table.",
+   "roles": [
+    "starter"
+   ],
+   "times": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ],
+   "veg": true,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/maya-food/"
+  },
+  {
+   "name": "Belizean chocolate",
+   "culture": "maya",
+   "cultureLabel": "Maya",
+   "short": "Bean-to-bar chocolate from Belizean cacao, tasted on farm tours in Toledo and Cayo.",
+   "roles": [
+    "finish"
+   ],
+   "times": [
+    "snack",
+    "dinner"
+   ],
+   "veg": true,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/maya-food/"
+  },
+  {
+   "name": "Ceviche",
+   "culture": "sea",
+   "cultureLabel": "From the sea",
+   "short": "Shrimp, fish or conch cured in lime with onion, tomato, cilantro and habanero.",
+   "roles": [
+    "starter"
+   ],
+   "times": [
+    "lunch",
+    "snack",
+    "dinner"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": false,
+   "season": "Conch only in season (October to June, quota permitting).",
+   "href": "/seafood-seasons/"
+  },
+  {
+   "name": "Conch fritters",
+   "culture": "sea",
+   "cultureLabel": "From the sea",
+   "short": "Chopped conch in batter, fried crisp.",
+   "roles": [
+    "starter"
+   ],
+   "times": [
+    "snack",
+    "dinner"
+   ],
+   "veg": false,
+   "gf": false,
+   "adventurous": false,
+   "season": "Conch season only.",
+   "href": "/seafood-seasons/"
+  },
+  {
+   "name": "Grilled lobster",
+   "culture": "sea",
+   "cultureLabel": "From the sea",
+   "short": "Spiny lobster grilled with garlic butter, or in tacos and pasta.",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "dinner"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": false,
+   "season": "July 1 to end of February only.",
+   "href": "/seafood-seasons/"
+  },
+  {
+   "name": "Whole fried snapper",
+   "culture": "sea",
+   "cultureLabel": "From the sea",
+   "short": "Reef fish fried whole, served with rice and beans or coconut rice.",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "lunch",
+    "dinner"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/seafood-seasons/"
+  },
+  {
+   "name": "Gibnut",
+   "culture": "creole",
+   "cultureLabel": "Creole",
+   "short": "Paca, a large rodent; slow-cooked and nicknamed \"the royal rat\".",
+   "roles": [
+    "main"
+   ],
+   "times": [
+    "dinner"
+   ],
+   "veg": false,
+   "gf": true,
+   "adventurous": true,
+   "season": "",
+   "href": "/creole-food/"
+  },
+  {
+   "name": "Belikin beer",
+   "culture": "drinks",
+   "cultureLabel": "Drinks",
+   "short": "The national beer, brewed in Belize.",
+   "roles": [
+    "finish"
+   ],
+   "times": [
+    "lunch",
+    "dinner",
+    "snack"
+   ],
+   "veg": true,
+   "gf": false,
+   "adventurous": false,
+   "season": "",
+   "href": "/drinks/"
+  },
+  {
+   "name": "Rum punch",
+   "culture": "drinks",
+   "cultureLabel": "Drinks",
+   "short": "Local rum with fruit juices, the classic beach drink.",
+   "roles": [
+    "finish"
+   ],
+   "times": [
+    "snack",
+    "dinner"
+   ],
+   "veg": true,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/drinks/"
+  },
+  {
+   "name": "Seaweed shake",
+   "culture": "drinks",
+   "cultureLabel": "Drinks",
+   "short": "A creamy blend of seaweed, milk, cinnamon and nutmeg; more pleasant than it sounds.",
+   "roles": [
+    "finish"
+   ],
+   "times": [
+    "breakfast",
+    "snack"
+   ],
+   "veg": true,
+   "gf": true,
+   "adventurous": true,
+   "season": "",
+   "href": "/drinks/"
+  },
+  {
+   "name": "Fresh fruit juice",
+   "culture": "drinks",
+   "cultureLabel": "Drinks",
+   "short": "Watermelon, lime, orange, soursop or pineapple, blended to order.",
+   "roles": [
+    "finish"
+   ],
+   "times": [
+    "breakfast",
+    "lunch",
+    "snack"
+   ],
+   "veg": true,
+   "gf": true,
+   "adventurous": false,
+   "season": "",
+   "href": "/drinks/"
+  },
+  {
+   "name": "Rum cake",
+   "culture": "creole",
+   "cultureLabel": "Creole",
+   "short": "A moist cake soaked with Belizean rum, a popular gift and dessert.",
+   "roles": [
+    "finish"
+   ],
+   "times": [
+    "dinner",
+    "snack"
+   ],
+   "veg": true,
+   "gf": false,
+   "adventurous": false,
+   "season": "",
+   "href": "/creole-food/"
+  },
+  {
+   "name": "Coconut tart",
+   "culture": "creole",
+   "cultureLabel": "Creole",
+   "short": "Sweet pastry filled with grated coconut, sold at bakeries.",
+   "roles": [
+    "finish"
+   ],
+   "times": [
+    "snack",
+    "breakfast"
+   ],
+   "veg": true,
+   "gf": false,
+   "adventurous": false,
+   "season": "",
+   "href": "/creole-food/"
+  }
+ ]
+}

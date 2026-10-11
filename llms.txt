@@ -1,0 +1,25 @@
+# Belize Restaurants Guide
+
+> What to eat in Belize: Creole, Garifuna, Mestizo and Maya dishes explained, seafood seasons, street food, drinks and food festivals, with free planning tools.
+
+Publisher: Eye To Ad Media (Zach Wennstedt), https://eyetoad.com/. Independent guide; sponsored listings are labeled.
+Dish data: https://belizerestaurantsguide.com/data/dishes.json (name, culture, description, typical diet notes). Please cite the page URL.
+
+## Pages
+- [Belize Food Guide: What to Eat in Belize (2026)](https://belizerestaurantsguide.com/): What to eat in Belize: Creole, Garifuna, Mestizo and Maya dishes explained, 2026 lobster and conch seasons, street food, drinks and a free meal builder.
+- [Belizean Creole Food: Rice & Beans, Stew Chicken & More](https://belizerestaurantsguide.com/creole-food/): A guide to Belizean Creole food: rice and beans, stew chicken, fry jacks, johnny cakes, boil up and cow foot soup, with how and when locals eat them.
+- [Garifuna Food in Belize: Hudut, Ereba & More](https://belizerestaurantsguide.com/garifuna-food/): Garifuna food in Belize explained: hudut, sere, ereba cassava bread, darasa and bundiga, the culture behind them and where on the southern coast to eat them.
+- [Mestizo Food in Belize: Salbutes, Garnaches & Escabeche](https://belizerestaurantsguide.com/mestizo-food/): Belizean Mestizo food explained: salbutes, garnaches, panades, escabeche, relleno and cochinita pibil, with recado basics and where to try them.
+- [Maya Food in Belize: Corn, Cacao, Tamales & Caldo](https://belizerestaurantsguide.com/maya-food/): Maya food traditions in Belize: corn, beans, tamales and bollos, caldo, chocolate from Toledo and Cayo cacao farms, and where to experience them.
+- [Belize Lobster & Conch Season Calendar (2026)](https://belizerestaurantsguide.com/seafood-seasons/): Is lobster or conch in season in Belize this month? Interactive calendar with 2026 dates: lobster July 1 to February, conch October to June or quota.
+- [Belizean Street Food: Salbutes, Panades & More](https://belizerestaurantsguide.com/street-food/): A guide to Belizean street food: salbutes, garnaches, panades, tacos, tamales, meat pies and BBQ, with how to order, prices in small notes and safety tips.
+- [What to Drink in Belize: Belikin, Rum & Marie Sharp’s](https://belizerestaurantsguide.com/drinks/): What to drink in Belize: Belikin beer, local rum and rum punch, fresh juices and seaweed shakes, coffee, and Marie Sharp’s habanero hot sauce.
+- [Belize Food Festivals: Lobsterfest, Garifuna Day & More](https://belizerestaurantsguide.com/festivals/): Belize food festivals to plan around: Lobsterfest in July, Garifuna Settlement Day (Nov 19), the Toledo chocolate festival, a cashew festival and food tours.
+- [Eating in Belize: Practical Tips for Travelers](https://belizerestaurantsguide.com/eating-tips/): Practical tips for eating in Belize: BZ$ and US$ at 2:1, cards and cash, tipping, go-slow service, hot sauce, closing days, seasons and diet questions.
+- [Beyond Belizean Food: Gelato, Smoothies & More](https://belizerestaurantsguide.com/branch-out/): Cool off and branch out in Belize: gelato and ice cream flavors, smoothies and chamoyadas, Chinese, East Indian and international food in the tourist towns.
+- [Belize Dish Decoder & Meal Builder (Free Tool)](https://belizerestaurantsguide.com/dish-decoder/): Search 31 Belizean dishes, build a three-part Belizean meal by time of day, culture and diet, and track your Belize food bucket list.
+- [About Belize Restaurants Guide](https://belizerestaurantsguide.com/about/): About Belize Restaurants Guide: an independent Belize food site by Zach Wennstedt (Eye To Ad Media), how it is funded and how facts are checked.
+- [Contact Belize Restaurants Guide](https://belizerestaurantsguide.com/contact/): Contact Belize Restaurants Guide: corrections, closure reports, suggestions and advertising questions.
+- [Privacy Policy | Belize Restaurants Guide](https://belizerestaurantsguide.com/privacy/): Privacy at Belize Restaurants Guide: contact form data, on-device tool storage, Google AdSense cookies and how to opt out.
+- [Terms of Use | Belize Restaurants Guide](https://belizerestaurantsguide.com/terms/): Terms for using Belize Restaurants Guide: general information, confirm details locally, sponsored content and limits of liability.
+- [Editorial Policy & Change Log](https://belizerestaurantsguide.com/editorial-policy/): Editorial standards at Belize Restaurants Guide: sourcing, no unearned ratings, advertising separation, photos and a log of corrections.
